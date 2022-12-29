@@ -1,0 +1,12 @@
+Package: avgDistort
+Type: Package
+Title: Finding most influencial observations that distort the average value of a sample the most.
+Version: 0.1.1
+Author: Daniel Hoop
+Maintainer: Daniel Hoop <daniel.hoop@net>
+Description: For each observation the package will calculate the sample average with and without that observation.
+    It can also be checked if the observations influences especially the delta between two years rather than the average of one specific year.
+License: All rights reserved
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
